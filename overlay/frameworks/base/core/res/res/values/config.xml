@@ -253,4 +253,7 @@
          The default is false. -->
     <bool name="config_lidControlsSleep">true</bool>
 
+    <!-- Sets whether IME switcher on statusbar should be shown or not. -->
+    <bool name="config_show_IMESwitcher">false</bool>
+
 </resources>
